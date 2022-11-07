@@ -7,7 +7,7 @@ title: Tiago Tamagusko's CV
 
 Transportation Specialist & Data Scientist
 
-<br/>Enthusiast of AI, programming, and active mobility.<br/>
+<br/>Enthusiast of AI, ==programming==, and active mobility.<br/>
 
 <div id="webaddress">
   <a href="https://github.com/tamagusko" target="_blank"><i class="fab fa-github"></i> tamagusko</a> - 
