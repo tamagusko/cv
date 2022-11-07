@@ -146,6 +146,27 @@ Programming Language &ndash; Python, R, Matlab, SQL;
 Data Analysis &ndash; Python, SQL, GIS, Excel;  
 Machine Learning &ndash; Python, Scikit-learn, Tensorflow, Keras, Streamlit, Pytorch.  
 
+### Learning pathway: Programming
+
+`2022+`
+**Python**: Geospatial Analisys and Deep Learning (Pytorch).  
+`2021+` 
+**Python**: Backend (Flask, FastAPI) and NLP.  
+`2020+` 
+**Python**: Computer Vision and Deep Learning (Keras/Tensorflow).  
+`2018+` 
+**Python**: Data Science and Machine Learning.  
+`2018-2020`
+**R**: Data Analysis.  
+`2013-2018` 
+**Python + Excel + Matlab**: Data Analysis.  
+`2005-2006` 
+**Pascal + C**: Academia.  
+`2004` 
+**PHP + PostgreSQL**: Web development.  
+`2003` 
+**8051 Assembly**: Microcontroller programming.  
+
 ## Tools
 
 Autocad, ArcGIS, QGIS;  
