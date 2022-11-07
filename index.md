@@ -10,9 +10,9 @@ Transportation Specialist & Data Scientist
 <br/>Enthusiast of AI, **programming**, and active mobility.<br/>
 
 <div id="webaddress">
-  <a href="https://github.com/tamagusko" target="_blank"><i class="fab fa-github"></i> tamagusko</a> - 
-  <a href="mailto:tamagusko@gmail.com/" target="_blank"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a> -
-  <a href="https://www.linkedin.com/in/tamagusko/" target="_blank"><i class="fab fa-linkedin"></i> tamagusko</a> - 
+  <a href="https://github.com/tamagusko" target="_blank"><i class="fab fa-github"></i> github</a> - 
+  <a href="mailto:tamagusko@gmail.com/" target="_blank"><i class="fas fa-envelope"></i> email</a> -
+  <a href="https://www.linkedin.com/in/tamagusko/" target="_blank"><i class="fab fa-linkedin"></i> linkedin</a> - 
   <a href="https://scholar.google.com/citations?user=_mJ4dr0AAAAJ&hl=en" target="_blank"><i class="fab fa-google"></i> scholar</a>
 </div>
 
