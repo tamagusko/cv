@@ -7,7 +7,7 @@ title: Tiago Tamagusko's CV
 
 Transportation Specialist & Data Scientist
 
-<br/>Enthusiast of AI, ==programming==, and active mobility.<br/>
+<br/>Enthusiast of AI, *programming*, and active mobility.<br/>
 
 <div id="webaddress">
   <a href="https://github.com/tamagusko" target="_blank"><i class="fab fa-github"></i> tamagusko</a> - 
@@ -38,11 +38,17 @@ Transportation Specialist & Data Scientist
 
 ## Projects
 
+`2022` **Multi-Objective Approach for Avoiding Multiple Delivery Attempts (PacketLocker)**, *Sustainable Supply Chain DeepHack.*  
+(Backend dev)  
+- Smart locker system developed in python.
+
+More: [github.com/tamagusko/ai-transatlantic-hackathon](https://github.com/tamagusko/ai-transatlantic-hackathon/)
+
 `2022` **Intelligent Real-time Accident Warning System (IRAWS)**, *Nordic AI & Open Data Hackathon.*  
 (Backend dev)  
 - Transfer learning with deep learning to train a model to detect road accidents.
 
-More: [github.com/tamagusko/nordicopendata/](https://github.com/tamagusko/nordicopendata/)
+More: [github.com/tamagusko/nordicopendata](https://github.com/tamagusko/nordicopendata/)
 
 `2019` **Studies for the Viseu Airport Runway**, *Coimbra University, Portugal.*  
 (Student)  
@@ -150,3 +156,5 @@ Python, R, Matlab;
 Github, Heroku, AWS;  
 Jupyter, Colab, Linux, Docker;   
 Agile, Scrum, Trello; Slack.
+
+<br/>Last updated: November 2022<br/>
