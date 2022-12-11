@@ -40,10 +40,11 @@ Transportation Specialist & Data Scientist
 
 `2022` **World Road Quality Visualization**, *Portfolio*  
 (Data Analyst/Dev)  
-- Visualization of road infrastructure quality in the world. Website: [roadquality.tamagusko.com](https:roadquality.tamagusko.com)
+- Visualization of road infrastructure quality in the world. 
+
+Website: [roadquality.tamagusko.com](https:roadquality.tamagusko.com)
 
 More: [github.com/tamagusko/road-quality](https://github.com/tamagusko/road-quality)
-
 
 `2022` **Multi-Objective Approach for Avoiding Multiple Delivery Attempts (PacketLocker)**, *Sustainable Supply Chain DeepHack.*  
 (Backend dev)  
