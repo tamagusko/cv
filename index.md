@@ -38,19 +38,21 @@ Transportation Specialist & Data Scientist
 
 ## Projects
 
+`2023+` **Lisbonhub**, *CycleAI*  
+(Data Analyst/Scientific Advisor)  
+- Solution using computer vision and deep learning to identify risk points for cyclists and micromobility in Greater Lisbon. The Project won the VoxPop Lisbon call and was co-financed by the EU.
+
+Website: [cycleai.net/data](https://cycleai.net/data)
+
+More: [voxpoplisboa.pt](https://www.voxpoplisboa.pt)
+
 `2022` **World Road Quality Visualization**, *Portfolio*  
 (Data Analyst/Dev)  
 - Visualization of road infrastructure quality in the world. 
 
-Website: [roadquality.tamagusko.com](https:roadquality.tamagusko.com)
+Website: [roadquality.tamagusko.com](https://roadquality.tamagusko.com)
 
 More: [github.com/tamagusko/road-quality](https://github.com/tamagusko/road-quality)
-
-`2022` **Multi-Objective Approach for Avoiding Multiple Delivery Attempts (PacketLocker)**, *Sustainable Supply Chain DeepHack.*  
-(Backend dev)  
-- Smart locker system developed in python.
-
-More: [github.com/tamagusko/ai-transatlantic-hackathon](https://github.com/tamagusko/ai-transatlantic-hackathon/)
 
 `2022` **Intelligent Real-time Accident Warning System (IRAWS)**, *Nordic AI & Open Data Hackathon.*  
 (Backend dev)  
@@ -110,6 +112,9 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 `2013` **Tamagusko, T.** (2013). **Cost of Lack of Standardization of Railway Gauges in Brazil**. (in Portuguese) DOI: [10.13140/RG.2.2.14193.10089](https://doi.org/10.13140/RG.2.2.14193.10089)
 
 ## Awards/Achievements
+
+`2023`
+**Location Intelligence for Smart Cities Hackathon**, *[2nd](https://github.com/tamagusko/awards/) | Online Hackathon*.
 
 `2022`
 **Transatlantic AI Hackathon – Sustainable Supply Chain DeepHack**, *[3rd](https://github.com/tamagusko/awards/blob/main/certificates/Transatlantic%20AI%20Hackathon%20%E2%80%93%20Sustainable%20Supply%20Chain%20DeepHack%20-%20Participation%20Certificate.pdf) | Online Hackathon*.
