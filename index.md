@@ -40,7 +40,8 @@ Transportation Specialist & Data Scientist
 
 `2023+` **Lisbonhub**, *CycleAI*  
 (Data Analyst/Scientific Advisor)  
-- Solution using computer vision and deep learning to identify risk points for cyclists and micromobility in Greater Lisbon. The Project won the VoxPop Lisbon call and was co-financed by the EU.
+- Solution using computer vision and deep learning to identify risk points for cyclists and micromobility in Greater Lisbon.  
+The Project won the VoxPop Lisbon call and was co-financed by the EU.
 
 Website: [cycleai.net/data](https://cycleai.net/data)
 
