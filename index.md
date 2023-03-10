@@ -110,8 +110,6 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 
 `2016` Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (2016). **Test Site for Evaluation of High-Speed WIM and ITS Solutions in Brazilian Conditions**. In: ICWIM7 Proceedings, 2016. Proceedings: [icwim7_bookproceedings](http://www.is-wim.org/icwim7/doc/icwim7_bookproceedings.pdf#page=73)
 
-`2013` **Tamagusko, T.** (2013). **Cost of Lack of Standardization of Railway Gauges in Brazil**. (in Portuguese) DOI: [10.13140/RG.2.2.14193.10089](https://doi.org/10.13140/RG.2.2.14193.10089)
-
 ## Awards/Achievements
 
 `2023`
