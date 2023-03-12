@@ -158,7 +158,7 @@ Programming Language &ndash; Python, R, Matlab, SQL;
 Data Analysis &ndash; Python, SQL, GIS, Excel;  
 Machine Learning &ndash; Python, Scikit-learn, Tensorflow, Keras, Streamlit, Pytorch.  
 
-### Learning pathway: Programming
+## Programming: Learning pathway
 
 `2022+`
 **Python**: Geospatial Analisys and Deep Learning (Pytorch).  
