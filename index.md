@@ -96,13 +96,13 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 
 ## Publications
 
-`2023` **Tamagusko, T.**, and Ferreira, A. (2023). **Optimizing pothole detection in pavements: A comparative analysis of deep learning models. **, in *Proceedings of the Second International Conference on Maintenance and Rehabilitation of Constructed Infrastructure Facilities*. Honolulu, Hawaii. 16-19 August. *SUBMITTED*.
+`2023` **Tamagusko, T.**, and Ferreira, A. (2023). **Optimizing pothole detection in pavements: A comparative analysis of deep learning models**, in Proceedings of the Second International Conference on Maintenance and Rehabilitation of Constructed Infrastructure Facilities. Honolulu, Hawaii. 16-19 August. *SUBMITTED*.
 
-`2023` **Tamagusko, T.**, and Ferreira, A. (2023). **Pavement performance prediction using machine learning: Supervised learning with tree-based algorithms. **, in *Proceedings of the World Conference on Transport Research*.Montreal, Canada, 17-21 July. *SUBMITTED*.
+`2023` **Tamagusko, T.**, and Ferreira, A. (2023). **Pavement performance prediction using machine learning: Supervised learning with tree-based algorithms**, in Proceedings of the World Conference on Transport Research. Montreal, Canada, 17-21 July. *SUBMITTED*.
 
 `2022` **Tamagusko, T.**, Correia, M., Huynh, M. and Ferreira, A. (2022). **Deep Learning applied to Road Accident Detection with Transfer Learning and Synthetic Images**, Transportation Research Procedia, 64, 90-97. DOI: [10.1016/j.trpro.2022.09.012](https://doi.org/10.1016/j.trpro.2022.09.012)
 
-`2022` **Tamagusko, T.** and Ferreira, A. (2022). **Data analysis applied to the airport pavement design**, Proceedings of the 7th International Conference on Road and Rail Infrastructure, CD Ed., pp. 419-425, Pula, Croatia.
+`2022` **Tamagusko, T.** and Ferreira, A. (2022). **Data analysis applied to the airport pavement design**, in Proceedings of the 7th International Conference on Road and Rail Infrastructure, CD Ed., pp. 419-425, Pula, Croatia.
 
 `2021` Marc Hasselwander, **Tiago Tamagusko**, João Bigotte, Adelino Ferreira, Alvin Mejia, and Emma J. S. Ferranti (2021). **Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity**. Sustainable Cities and Society. DOI: [10.1016/j.scs.2021.102864](https://doi.org/10.1016/j.scs.2021.102864)
 
