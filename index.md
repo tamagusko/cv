@@ -104,6 +104,8 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 
 ## Publications
 
+`2023` Rita, L., Peliteiro, M., Bostan, T., **Tamagusko, T.**, and Ferreira, A. (2023). **Using Deep Learning and Google Street View Imagery to Assess and Improve Cyclist Safety in London**. Sustainability, 15(13), 10270, 1-27. MDPI. DOI: [10.3390/su151310270](https://doi.org/10.3390/su151310270)
+
 `2023` **Tamagusko, T.**, and Ferreira, A. (2023). **Optimizing pothole detection in pavements: A comparative analysis of deep learning models**, in Proceedings of the Second International Conference on Maintenance and Rehabilitation of Constructed Infrastructure Facilities. Honolulu, Hawaii. 16-19 August. *SUBMITTED*.
 
 `2023` **Tamagusko, T.**, and Ferreira, A. (2023). **Pavement performance prediction using machine learning: Supervised learning with tree-based algorithms**, in Proceedings of the World Conference on Transport Research. Montreal, Canada, 17-21 July. *SUBMITTED*.
