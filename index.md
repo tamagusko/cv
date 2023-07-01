@@ -210,4 +210,4 @@ Github, Heroku, AWS;
 Jupyter, Colab, Linux, Docker;
 Agile, Scrum, Trello; Slack.
 
-<br/>Last updated: March 2023<br/>
+<br/>Last updated: July 2023<br/>
