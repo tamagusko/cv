@@ -104,7 +104,9 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 
 ## Publications
 
-`2023` Rita, L., Peliteiro, M., Bostan, T., **Tamagusko, T.**, and Ferreira, A. (2023). **Using Deep Learning and Google Street View Imagery to Assess and Improve Cyclist Safety in London**. Sustainability, 15(13), 10270, 1-27. MDPI. DOI: [10.3390/su151310270](https://doi.org/10.3390/su151310270)
+`2023` **Tamagusko, T.**; Gomes Correia, M.; Rita, L.; Bostan, TC; Peliteiro, M.; Martins, R.; Santos, L.; Ferreira, A. (2023). **Data-Driven Approach for Urban Micromobility Enhancement through Safety Mapping and Intelligent Route Planning**. Smart Cities, 6(4), 2035-2056, 1-22. MDPI. DOI: [10.3390/smartcities6040094](https://doi.org/10.3390/smartcities6040094).
+
+`2023` Rita, L.; Peliteiro, M.; Bostan, TC.; **Tamagusko, T.**; and Ferreira, A. (2023). **Using Deep Learning and Google Street View Imagery to Assess and Improve Cyclist Safety in London**. Sustainability, 15(13), 10270, 1-27. MDPI. DOI: [10.3390/su151310270](https://doi.org/10.3390/su151310270)
 
 `2023` **Tamagusko, T.**, and Ferreira, A. (2023). **Optimizing pothole detection in pavements: A comparative analysis of deep learning models**, in Proceedings of the Second International Conference on Maintenance and Rehabilitation of Constructed Infrastructure Facilities. Honolulu, Hawaii. 16-19 August. DOI: [10.3390/engproc2023036011](https://doi.org/10.3390/engproc2023036011).
 
@@ -168,6 +170,11 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 `2014`
 **HDM4 Software Operation**, *FAPEU, Brazil, 40h*.
 
+### Academic
+
+`2023`
+**Innovation and Science Diplomacy School on Global Circulation of Research Data**, *USP, Brazil, 60h*.
+
 ## Skills
 
 Complex problem solving;  
@@ -210,4 +217,4 @@ Github, Heroku, AWS;
 Jupyter, Colab, Linux, Docker;
 Agile, Scrum, Trello; Slack.
 
-<br/>Last updated: July 2023<br/>
+<br/>Last updated: August 2023<br/>
