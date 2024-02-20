@@ -21,8 +21,8 @@ Transportation Specialist & Data Scientist
 `2020-2024` **Researcher**, *CITTA, Portugal.*  
 (4yr. PhD Researcher)  
 
-- Development and application of AI and ML for road infrastructure management.
-- Utilization of computer vision techniques for pavement condition assessment.
+- Development and application of AI and ML for road infrastructure management;
+- Utilization of computer vision techniques for pavement condition assessment;
 - Implementing deep learning for accident detection.
 
 `2020-2022` **Project manager**, *JEST, Portugal.*  
