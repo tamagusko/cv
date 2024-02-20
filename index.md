@@ -18,6 +18,13 @@ Transportation Specialist & Data Scientist
 
 ## Experience
 
+`2020-2024` **Researcher**, *CITTA, Portugal.*  
+(4yr. PhD Researcher)  
+
+- Development and application of AI and ML for road infrastructure management.
+- Utilization of computer vision techniques for pavement condition assessment.
+- Implementing deep learning for accident detection.
+
 `2020-2022` **Project manager**, *JEST, Portugal.*  
 (6mos. Intern, 4mos. Data Scientist, 1yr. Innovation&Technology Coordinator, 8mos. Project manager)  
 
@@ -150,6 +157,11 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 
 ## Courses
 
+### Academic
+
+`2023`
+**Innovation and Science Diplomacy School on Global Circulation of Research Data**, *USP, Brazil, 60h*.
+
 ### Computer Science
 
 `2022`
@@ -171,11 +183,6 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 
 `2014`
 **HDM4 Software Operation**, *FAPEU, Brazil, 40h*.
-
-### Academic
-
-`2023`
-**Innovation and Science Diplomacy School on Global Circulation of Research Data**, *USP, Brazil, 60h*.
 
 ## Skills
 
@@ -214,9 +221,10 @@ Autocad, ArcGIS, QGIS;
 SQL, MySQL, SQLite, PostgreSQL;  
 Advanced in MS Excel;  
 HDM-4, FAARFIELD, PTV Visum;  
+ArcGIS, QGIS;  
 Python, R, Matlab;  
 Github, Heroku, AWS;  
 Jupyter, Colab, Linux, Docker;
 Agile, Scrum, Trello; Slack.
 
-<br/>Last updated: November 2023<br/>
+<br/>Last updated: February 2024<br/>
