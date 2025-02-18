@@ -5,7 +5,7 @@ title: Tiago Tamagusko's CV
 
 # Tiago Tamagusko
 
-Transportation Specialist & Data Scientist
+PhD in Transportation & Data Scientist
 
 <br/>Enthusiast of AI, **programming**, and active mobility.<br/>
 
@@ -17,6 +17,13 @@ Transportation Specialist & Data Scientist
 </div>
 
 ## Experience
+
+`2024` **Postdoctoral Research Fellow**, *University College Dublin, Ireland.*  
+(Ongoing)  
+
+- Conduct data analysis and apply machine learning techniques to support active mobility and climate change initiatives;
+- Develop computer vision models to analyze urban spaces and propose designs that enhance livability and sustainability;
+- Utilize LLMs, foundation models, and multimodal AI to process urban imagery and assess cycling safety.
 
 `2020-2024` **Researcher**, *CITTA, Portugal.*  
 (4yr. PhD Researcher)  
@@ -48,7 +55,7 @@ Transportation Specialist & Data Scientist
 
 ## Projects
 
-`2023+` **Lisbonhub**, *CycleAI*  
+`2023` **Lisbonhub**, *CycleAI*  
 (Data Analyst/Scientific Advisor)  
 
 - Solution using computer vision and deep learning to identify risk points for cyclists and micromobility in Greater Lisbon.  
@@ -90,9 +97,8 @@ More: [PIAF Project (LabTrans)](https://www.labtrans.ufsc.br/en/modelo-de-posto-
 
 ## Education
 
-`2020`
+`2020-2024`
 **Ph.D., Transport Systems**, *University of Coimbra*, Portugal.  
-(In progress)  
 Project of Thesis: "Artificial Intelligence applied to Transport Infrastructure Management"
 
 `2018-2020`
