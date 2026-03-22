@@ -5,9 +5,9 @@ title: Tiago Tamagusko's CV
 
 # Tiago Tamagusko
 
-Postdoctoral Researcher | Assistant Professor | PhD in Transport Systems
+Postdoctoral Researcher & Assistant Professor (PhD in Transport Systems)
 
-<br/>Specializing in AI-driven transportation safety, computer vision, edge AI, and geospatial analytics.<br/>
+<br/>Epecializing in AI-driven transportation safety, computer vision, edge AI, and geospatial analytics.<br/>
 
 <div id="webaddress">
   <a href="https://github.com/tamagusko" target="_blank"><i class="fab fa-github"></i> github</a> -
