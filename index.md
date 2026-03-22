@@ -120,9 +120,7 @@ Dissertation: "Airport Pavement Design"
 
 ## Publications
 
-**Impact: 430+ citations | h-index 8 | 12 peer-reviewed publications** (March 2026)
-
-`2026` Galaktionova, A.; Istrate, A.; **Tamagusko, T.**; Carroll, P. Street Vitality and Traffic Risk: A Multiscale Analysis of Barcelona and Warsaw. *Accident Analysis & Prevention*, 228, 108393. DOI: [10.1016/j.aap.2026.108393](https://doi.org/10.1016/j.aap.2026.108393)
+2026` Galaktionova, A.; Istrate, A.; **Tamagusko, T.**; Carroll, P. Street Vitality and Traffic Risk: A Multiscale Analysis of Barcelona and Warsaw. *Accident Analysis & Prevention*, 228, 108393. DOI: [10.1016/j.aap.2026.108393](https://doi.org/10.1016/j.aap.2026.108393)
 
 `2026` **Tamagusko, T.**; Ferreira, A. Asphalt Pavement Performance Prediction Using Ensemble Learning Methods. *Lecture Notes in Mobility*. Springer Nature Switzerland, pp. 153–159.
 
