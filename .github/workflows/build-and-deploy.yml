@@ -37,6 +37,14 @@ jobs:
           npm install --no-audit --no-fund
           npx playwright install --with-deps chromium
 
+      - name: Stamp build date
+        env:
+          BUILD_DATE: ${{ github.event.repository.updated_at }}
+        run: |
+          mkdir -p _data
+          printf 'updated: %s\n' "$(date -u +%Y-%m-%d)" > _data/build.yml
+          cat _data/build.yml
+
       - name: Build Jekyll site
         env:
           JEKYLL_ENV: production

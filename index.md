@@ -175,4 +175,3 @@ Dissertation: "Airport Pavement Design"
 **Geospatial:** QGIS, ArcGIS, PostGIS, geopandas, spatial statistics, transport network analysis  
 **Languages:** Portuguese (native), English (fluent)
 
-Last updated: April 2026

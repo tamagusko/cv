@@ -7,6 +7,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 Gemfile.lock
+_data/build.yml
 
 # Node
 node_modules/

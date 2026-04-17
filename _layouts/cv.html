@@ -37,6 +37,8 @@
   <main id="main" class="site-wrap" role="main" tabindex="-1">
     <article id="content" class="cv">
       {{ content }}
+      {%- assign stamp = site.data.build.updated | default: site.time | date: "%Y-%m-%d" -%}
+      <p class="cv-updated">Updated {{ stamp }}</p>
     </article>
     <p class="cv-download-footer">
       <a class="btn-pill--black" href="{{ '/Tamagusko-CV.pdf' | relative_url }}" download="Tamagusko-CV.pdf">Download PDF</a>

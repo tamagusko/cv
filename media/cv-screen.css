@@ -277,9 +277,18 @@ a:hover { color: var(--c-fg-mid); text-decoration-color: var(--c-fg); }
 }
 .cv #webaddress a:hover { color: var(--c-fg); }
 
+/* Auto-stamp shown under content (below "Skills") */
+.cv-updated {
+  margin: var(--s-6) 0 0;
+  font-family: var(--f-mono);
+  font-size: var(--t-small);
+  color: var(--c-fg-muted);
+  font-variant-numeric: tabular-nums;
+}
+
 /* Download footer (below content) */
 .cv-download-footer {
-  margin: var(--s-7) 0 var(--s-5);
+  margin: var(--s-5) 0 var(--s-5);
   text-align: left;
 }
 
