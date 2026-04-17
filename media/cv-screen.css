@@ -145,6 +145,7 @@ a:hover { color: var(--c-fg-mid); text-decoration-color: var(--c-fg); }
   grid-area: actions;
   display: flex;
   align-items: center;
+  gap: var(--s-2);
 }
 
 /* Pill buttons */
