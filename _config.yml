@@ -1,2 +1,30 @@
-markdown:   kramdown
-theme: jekyll-theme-minimal
+title: CV — Tiago Tamagusko
+author: Tiago Tamagusko
+email: tamagusko@gmail.com
+url: https://tamagusko.github.io
+baseurl: /cv
+description: >
+  Curriculum Vitae of Tiago Tamagusko · Postdoctoral Researcher in AI applied
+  to Transportation, University College Dublin.
+
+markdown: kramdown
+permalink: /:slug.html
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - LICENSE
+  - node_modules
+  - package.json
+  - package-lock.json
+  - scripts
+  - .github

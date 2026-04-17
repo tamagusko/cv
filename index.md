@@ -7,13 +7,14 @@ title: Tiago Tamagusko's CV
 
 Postdoctoral Researcher & Assistant Professor (PhD in Transport Systems)
 
-<br/>Epecializing in AI-driven transportation safety, computer vision, edge AI, and geospatial analytics.<br/>
+Specializing in AI-driven transportation safety, computer vision, edge AI, and geospatial analytics.
 
 <div id="webaddress">
-  <a href="https://github.com/tamagusko" target="_blank"><i class="fab fa-github"></i> github</a> -
-  <a href="mailto:tamagusko@gmail.com/" target="_blank"><i class="fas fa-envelope"></i> email</a> -
-  <a href="https://www.linkedin.com/in/tamagusko/" target="_blank"><i class="fab fa-linkedin"></i> linkedin</a> -
-  <a href="https://scholar.google.com/citations?user=_mJ4dr0AAAAJ&hl=en" target="_blank"><i class="fab fa-google"></i> scholar</a>
+  <a href="mailto:tamagusko@gmail.com" rel="noopener">email</a>
+  <a href="https://github.com/tamagusko" rel="noopener me external">github</a>
+  <a href="https://www.linkedin.com/in/tamagusko/" rel="noopener me external">linkedin</a>
+  <a href="https://scholar.google.com/citations?user=_mJ4dr0AAAAJ&hl=en" rel="noopener me external">scholar</a>
+  <a href="https://orcid.org/0000-0003-0502-6472" rel="noopener me external">orcid</a>
 </div>
 
 ## Profile
@@ -120,7 +121,7 @@ Dissertation: "Airport Pavement Design"
 
 ## Publications
 
-2026` Galaktionova, A.; Istrate, A.; **Tamagusko, T.**; Carroll, P. Street Vitality and Traffic Risk: A Multiscale Analysis of Barcelona and Warsaw. *Accident Analysis & Prevention*, 228, 108393. DOI: [10.1016/j.aap.2026.108393](https://doi.org/10.1016/j.aap.2026.108393)
+`2026` Galaktionova, A.; Istrate, A.; **Tamagusko, T.**; Carroll, P. Street Vitality and Traffic Risk: A Multiscale Analysis of Barcelona and Warsaw. *Accident Analysis & Prevention*, 228, 108393. DOI: [10.1016/j.aap.2026.108393](https://doi.org/10.1016/j.aap.2026.108393)
 
 `2026` **Tamagusko, T.**; Ferreira, A. Asphalt Pavement Performance Prediction Using Ensemble Learning Methods. *Lecture Notes in Mobility*. Springer Nature Switzerland, pp. 153–159.
 
@@ -174,4 +175,4 @@ Dissertation: "Airport Pavement Design"
 **Geospatial:** QGIS, ArcGIS, PostGIS, geopandas, spatial statistics, transport network analysis  
 **Languages:** Portuguese (native), English (fluent)
 
-<br/>Last updated: March 2026<br/>
+Last updated: April 2026

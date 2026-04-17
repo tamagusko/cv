@@ -1,6 +1,17 @@
 # dev
 #.ipynb
 
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# Node
+node_modules/
+package-lock.json
+
 # Markdown Backup
 *.md.backup
 

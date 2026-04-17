@@ -1,18 +1,58 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
-  <meta charset=utf-8 />
-  <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
-  <link href="media/cv-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+  <title>{% if page.title %}{{ page.title | strip_html }} · {% endif %}{{ site.title | strip_html }}</title>
+
+  <meta name="description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
+  <meta name="author" content="{{ site.author }}">
+  <meta name="theme-color" content="#ffffff">
+
+  {%- seo title=false -%}
+  {%- feed_meta -%}
+
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/media/cv-screen.css" | relative_url }}" media="screen">
+  <link rel="stylesheet" href="{{ "/media/cv-print.css" | relative_url }}" media="print">
 </head>
-<body>
-  <div id="main">
-    <div id="content">
-    {{ content }}
+<body class="site">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container">
+      <a href="https://tamagusko.com" class="site-title" rel="noopener">Tiago Tamagusko</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="https://tamagusko.com" rel="noopener">About</a>
+        <a href="https://tamagusko.com/publications.html" rel="noopener">Publications</a>
+        <a href="https://tamagusko.com/projects.html" rel="noopener">Projects</a>
+        <a href="{{ '/' | relative_url }}" aria-current="page">CV</a>
+      </nav>
+      <div class="header-actions">
+        <a class="btn-pill--black" href="{{ '/Tamagusko-CV.pdf' | relative_url }}" download="Tamagusko-CV.pdf">Download PDF</a>
+      </div>
     </div>
-  </div>
+  </header>
+  <main id="main" class="site-wrap" role="main" tabindex="-1">
+    <article id="content" class="cv">
+      {{ content }}
+    </article>
+    <p class="cv-download-footer">
+      <a class="btn-pill--black" href="{{ '/Tamagusko-CV.pdf' | relative_url }}" download="Tamagusko-CV.pdf">Download PDF</a>
+    </p>
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <nav class="footer-links" aria-label="Secondary">
+        <a href="mailto:tamagusko@gmail.com">Email</a>
+        <a href="https://github.com/tamagusko" rel="noopener me external">GitHub</a>
+        <a href="https://scholar.google.com/citations?user=_mJ4dr0AAAAJ&hl=en" rel="noopener me external">Scholar</a>
+        <a href="https://www.linkedin.com/in/tamagusko/" rel="noopener me external">LinkedIn</a>
+        <a href="https://orcid.org/0000-0003-0502-6472" rel="noopener me external">ORCID</a>
+      </nav>
+      <p class="footer-meta">© {{ 'now' | date: "%Y" }} {{ site.author }}</p>
+    </div>
+  </footer>
 </body>
 </html>

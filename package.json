@@ -1,0 +1,11 @@
+{
+  "name": "tamagusko-cv",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render:pdf": "node scripts/render-pdf.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  }
+}
