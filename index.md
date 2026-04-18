@@ -10,11 +10,22 @@ Postdoctoral Researcher & Assistant Professor (PhD in Transport Systems)
 Specializing in AI-driven transportation safety, computer vision, edge AI, and geospatial analytics.
 
 <div id="webaddress">
-  <a href="mailto:tamagusko@gmail.com" rel="noopener">email</a>
-  <a href="https://github.com/tamagusko" rel="noopener me external">github</a>
-  <a href="https://www.linkedin.com/in/tamagusko/" rel="noopener me external">linkedin</a>
-  <a href="https://scholar.google.com/citations?user=_mJ4dr0AAAAJ&hl=en" rel="noopener me external">scholar</a>
-  <a href="https://orcid.org/0000-0003-0502-6472" rel="noopener me external">orcid</a>
+  <a href="mailto:tamagusko@gmail.com" aria-label="Email">
+    <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+    <span class="visually-hidden">Email</span>
+  </a>
+  <a href="https://github.com/tamagusko" rel="noopener me external" aria-label="GitHub">
+    <i class="fa-brands fa-github" aria-hidden="true"></i>
+    <span class="visually-hidden">GitHub</span>
+  </a>
+  <a href="https://scholar.google.com/citations?user=_mJ4dr0AAAAJ&hl=en" rel="noopener me external" aria-label="Google Scholar">
+    <i class="fa-brands fa-google" aria-hidden="true"></i>
+    <span class="visually-hidden">Google Scholar</span>
+  </a>
+  <a href="https://www.linkedin.com/in/tamagusko/" rel="noopener me external" aria-label="LinkedIn">
+    <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+    <span class="visually-hidden">LinkedIn</span>
+  </a>
 </div>
 
 ## Profile
@@ -121,29 +132,29 @@ Dissertation: "Airport Pavement Design"
 
 ## Publications
 
-`2026` Galaktionova, A.; Istrate, A.; **Tamagusko, T.**; Carroll, P. Street Vitality and Traffic Risk: A Multiscale Analysis of Barcelona and Warsaw. *Accident Analysis & Prevention*, 228, 108393. DOI: [10.1016/j.aap.2026.108393](https://doi.org/10.1016/j.aap.2026.108393)
+Galaktionova, A., Istrate, A.-L., **Tamagusko, T.**, & Carroll, P. (2026). Street vitality and traffic risk: A multiscale analysis of Barcelona and Warsaw. *Accident Analysis & Prevention*, *228*, 108393. [https://doi.org/10.1016/j.aap.2026.108393](https://doi.org/10.1016/j.aap.2026.108393)
 
-`2026` **Tamagusko, T.**; Ferreira, A. Asphalt Pavement Performance Prediction Using Ensemble Learning Methods. *Lecture Notes in Mobility*. Springer Nature Switzerland, pp. 153–159.
+**Tamagusko, T.**, & Ferreira, A. (2026). Asphalt pavement performance prediction using ensemble learning methods. In *Lecture Notes in Mobility* (pp. 153–159). Springer Nature Switzerland.
 
-`2025` **Tamagusko, T.**; Ferreira, A. Pavement Performance Prediction using Machine Learning: Supervised Learning with Tree-Based Algorithms. *Transportation Research Procedia*, 82, 2521–2531. DOI: [10.1016/j.trpro.2024.12.202](https://doi.org/10.1016/j.trpro.2024.12.202)
+**Tamagusko, T.**, & Ferreira, A. (2025). Pavement performance prediction using machine learning: Supervised learning with tree-based algorithms. *Transportation Research Procedia*, *82*, 2521–2531. [https://doi.org/10.1016/j.trpro.2024.12.202](https://doi.org/10.1016/j.trpro.2024.12.202)
 
-`2024` **Tamagusko, T.**; Gomes Correia, M.; Ferreira, A. Machine Learning Applications in Road Pavement Management: A Review, Challenges and Future Directions. *Infrastructures*, 9(12). DOI: [10.3390/infrastructures9120213](https://doi.org/10.3390/infrastructures9120213). **Cited: 45**
+**Tamagusko, T.**, Gomes Correia, M., & Ferreira, A. (2024). Machine learning applications in road pavement management: A review, challenges, and future directions. *Infrastructures*, *9*(12). [https://doi.org/10.3390/infrastructures9120213](https://doi.org/10.3390/infrastructures9120213) — *Cited: 45*
 
-`2023` **Tamagusko, T.**; Ferreira, A. Machine Learning for Prediction of the International Roughness Index on Flexible Pavements: A Review, Challenges, and Future Directions. *Infrastructures*, 8(12), 170. DOI: [10.3390/infrastructures8120170](https://doi.org/10.3390/infrastructures8120170). **Cited: 54**
+**Tamagusko, T.**, & Ferreira, A. (2023). Machine learning for prediction of the international roughness index on flexible pavements: A review, challenges, and future directions. *Infrastructures*, *8*(12), 170. [https://doi.org/10.3390/infrastructures8120170](https://doi.org/10.3390/infrastructures8120170) — *Cited: 54*
 
-`2023` **Tamagusko, T.**; Gomes Correia, M.; Rita, L.; et al. Data-Driven Approach for Urban Micromobility Enhancement through Safety Mapping and Intelligent Route Planning. *Smart Cities*, 6(4), 2035–2056. DOI: [10.3390/smartcities6040094](https://doi.org/10.3390/smartcities6040094). **Cited: 28**
+**Tamagusko, T.**, Gomes Correia, M., Rita, L., Bostan, T.-C., Hasselwander, M., & Ferreira, A. (2023). Data-driven approach for urban micromobility enhancement through safety mapping and intelligent route planning. *Smart Cities*, *6*(4), 2035–2056. [https://doi.org/10.3390/smartcities6040094](https://doi.org/10.3390/smartcities6040094) — *Cited: 28*
 
-`2023` Rita, L.; Peliteiro, M.; Bostan, T.C.; **Tamagusko, T.**; Ferreira, A. Using Deep Learning and Google Street View Imagery to Assess and Improve Cyclist Safety in London. *Sustainability*, 15(13), 10270. DOI: [10.3390/su151310270](https://doi.org/10.3390/su151310270). **Cited: 22**
+Rita, L., Peliteiro, M., Bostan, T.-C., **Tamagusko, T.**, & Ferreira, A. (2023). Using deep learning and Google Street View imagery to assess and improve cyclist safety in London. *Sustainability*, *15*(13), 10270. [https://doi.org/10.3390/su151310270](https://doi.org/10.3390/su151310270) — *Cited: 22*
 
-`2023` **Tamagusko, T.**; Ferreira, A. Optimizing Pothole Detection in Pavements: A Comparative Analysis of Deep Learning Models. *Engineering Proceedings*, 36(1), 11. DOI: [10.3390/engproc2023036011](https://doi.org/10.3390/engproc2023036011). **Cited: 19**
+**Tamagusko, T.**, & Ferreira, A. (2023). Optimizing pothole detection in pavements: A comparative analysis of deep learning models. *Engineering Proceedings*, *36*(1), 11. [https://doi.org/10.3390/engproc2023036011](https://doi.org/10.3390/engproc2023036011) — *Cited: 19*
 
-`2022` **Tamagusko, T.**; Correia, M.; Huynh, M.; Ferreira, A. Deep Learning Applied to Road Accident Detection with Transfer Learning and Synthetic Images. *Transportation Research Procedia*, 64, 90–97. DOI: [10.1016/j.trpro.2022.09.012](https://doi.org/10.1016/j.trpro.2022.09.012). **Cited: 53**
+**Tamagusko, T.**, Correia, M., Huynh, M., & Ferreira, A. (2022). Deep learning applied to road accident detection with transfer learning and synthetic images. *Transportation Research Procedia*, *64*, 90–97. [https://doi.org/10.1016/j.trpro.2022.09.012](https://doi.org/10.1016/j.trpro.2022.09.012) — *Cited: 53*
 
-`2021` Hasselwander, M.; **Tamagusko, T.**; Bigotte, J.; Ferreira, A.; Mejia, A.; Ferranti, E. Building Back Better: The COVID-19 Pandemic and Transport Policy Implications for a Developing Megacity. *Sustainable Cities and Society*, 69, 102864. DOI: [10.1016/j.scs.2021.102864](https://doi.org/10.1016/j.scs.2021.102864). **Cited: 139**
+Hasselwander, M., **Tamagusko, T.**, Bigotte, J. F., Ferreira, A., Mejia, A., & Ferranti, E. J. S. (2021). Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity. *Sustainable Cities and Society*, *69*, 102864. [https://doi.org/10.1016/j.scs.2021.102864](https://doi.org/10.1016/j.scs.2021.102864) — *Cited: 139*
 
-`2020` **Tamagusko, T.**; Ferreira, A. Data-Driven Approach to Understand the Mobility Patterns of the Portuguese Population during the COVID-19 Pandemic. *Sustainability*, 12(22), 9775. DOI: [10.3390/su12229775](https://doi.org/10.3390/su12229775). **Cited: 47**
+**Tamagusko, T.**, & Ferreira, A. (2020). Data-driven approach to understand the mobility patterns of the Portuguese population during the COVID-19 pandemic. *Sustainability*, *12*(22), 9775. [https://doi.org/10.3390/su12229775](https://doi.org/10.3390/su12229775) — *Cited: 47*
 
-`2020` **Tamagusko, T.**; Ferreira, A. Software Tools for Airport Pavement Design. *WorldCIST 2020*, AISC vol 1160, Springer. DOI: [10.1007/978-3-030-45691-7_7](https://doi.org/10.1007/978-3-030-45691-7_7). **Cited: 8**
+**Tamagusko, T.**, & Ferreira, A. (2020). Software tools for airport pavement design. In *WorldCIST 2020, AISC* (Vol. 1160). Springer. [https://doi.org/10.1007/978-3-030-45691-7_7](https://doi.org/10.1007/978-3-030-45691-7_7) — *Cited: 8*
 
 ## Scientific Community
 

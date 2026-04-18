@@ -262,21 +262,36 @@ a:hover { color: var(--c-fg-mid); text-decoration-color: var(--c-fg); }
   margin: var(--s-6) 0;
 }
 
-/* Webaddress / contact line */
+/* Webaddress / contact icons */
 .cv #webaddress {
-  font-family: var(--f-mono);
-  font-size: var(--t-caption);
-  color: var(--c-fg-muted);
   margin: var(--s-4) 0 var(--s-6);
   display: flex;
   flex-wrap: wrap;
-  gap: var(--s-2) var(--s-3);
+  align-items: center;
+  gap: var(--s-4);
 }
 .cv #webaddress a {
   color: var(--c-fg-muted);
   text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--r-pill);
+  font-size: 1.25rem;     /* icon glyph ~20px */
+  line-height: 1;
 }
 .cv #webaddress a:hover { color: var(--c-fg); }
+
+/* Visually hidden (accessible to screen readers) */
+.visually-hidden {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0,0,0,0);
+  white-space: nowrap; border: 0;
+}
 
 /* Auto-stamp shown under content (below "Skills") */
 .cv-updated {
