@@ -9,25 +9,6 @@ Postdoctoral Researcher & Assistant Professor (PhD in Transport Systems)
 
 Specializing in AI-driven transportation safety, computer vision, edge AI, and geospatial analytics.
 
-<div id="webaddress">
-  <a href="mailto:tamagusko@gmail.com" aria-label="Email">
-    <i class="fa-solid fa-envelope" aria-hidden="true"></i>
-    <span class="visually-hidden">Email</span>
-  </a>
-  <a href="https://github.com/tamagusko" rel="noopener me external" aria-label="GitHub">
-    <i class="fa-brands fa-github" aria-hidden="true"></i>
-    <span class="visually-hidden">GitHub</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=_mJ4dr0AAAAJ&hl=en" rel="noopener me external" aria-label="Google Scholar">
-    <i class="fa-brands fa-google" aria-hidden="true"></i>
-    <span class="visually-hidden">Google Scholar</span>
-  </a>
-  <a href="https://www.linkedin.com/in/tamagusko/" rel="noopener me external" aria-label="LinkedIn">
-    <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
-    <span class="visually-hidden">LinkedIn</span>
-  </a>
-</div>
-
 ## Profile
 
 Postdoctoral Researcher at University College Dublin and Assistant Professor at the Military Institute of Engineering (IME), Brazil. Specializing in active transportation safety and AI-driven multimodal traffic monitoring, with expertise in computer vision, edge AI, spatio-temporal modeling, and geospatial analytics. Research integrates transportation engineering with artificial intelligence and privacy-preserving analytics to advance safety assessment for pedestrians, cyclists, and micromobility users.

@@ -262,28 +262,6 @@ a:hover { color: var(--c-fg-mid); text-decoration-color: var(--c-fg); }
   margin: var(--s-6) 0;
 }
 
-/* Webaddress / contact icons */
-.cv #webaddress {
-  margin: var(--s-4) 0 var(--s-6);
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: var(--s-4);
-}
-.cv #webaddress a {
-  color: var(--c-fg-muted);
-  text-decoration: none;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 36px;
-  height: 36px;
-  border-radius: var(--r-pill);
-  font-size: 1.25rem;     /* icon glyph ~20px */
-  line-height: 1;
-}
-.cv #webaddress a:hover { color: var(--c-fg); }
-
 /* Visually hidden (accessible to screen readers) */
 .visually-hidden {
   position: absolute !important;
@@ -308,7 +286,7 @@ a:hover { color: var(--c-fg-mid); text-decoration-color: var(--c-fg); }
   text-align: left;
 }
 
-/* Site footer */
+/* Site footer (centered icon row, parity with main site) */
 .site-footer {
   background: var(--c-bg);
   color: var(--c-fg-muted);
@@ -316,6 +294,7 @@ a:hover { color: var(--c-fg-mid); text-decoration-color: var(--c-fg); }
   padding: var(--s-5) 0 var(--s-6);
   padding-bottom: max(var(--s-6), env(safe-area-inset-bottom));
   border-top: 1px solid var(--c-border);
+  text-align: center;
 }
 .site-footer .container {
   max-width: var(--measure);
@@ -325,23 +304,29 @@ a:hover { color: var(--c-fg-mid); text-decoration-color: var(--c-fg); }
 .site-footer .footer-links {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--s-4) var(--s-5);
+  justify-content: center;
+  align-items: center;
+  gap: var(--s-5);
 }
 .site-footer .footer-links a {
   color: var(--c-fg-muted);
-  font-family: var(--f-body);
-  font-size: var(--t-caption);
   text-decoration: none;
-  padding: var(--s-2) 0;
-  min-height: 44px;
   display: inline-flex;
   align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: var(--r-pill);
+  font-size: 1.25rem;
+  line-height: 1;
 }
 .site-footer .footer-links a:hover { color: var(--c-fg); }
+.site-footer .footer-links a:focus-visible { outline-offset: 4px; }
 .site-footer .footer-meta {
   margin-top: var(--s-3);
   font-size: var(--t-small);
   color: var(--c-fg-muted);
+  text-align: center;
 }
 
 /* Responsive */

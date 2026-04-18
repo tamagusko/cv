@@ -107,26 +107,6 @@ html, body {
   page-break-inside: avoid;
 }
 
-.cv #webaddress {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-  font-size: 9pt;
-  color: var(--c-fg-muted);
-  margin: 4pt 0 12pt;
-}
-.cv #webaddress a {
-  color: var(--c-fg-muted);
-  text-decoration: none;
-  margin-right: 12pt;
-  font-size: 11pt;
-}
-/* Print fallback: hide visual icons (FA may not load on print PDF), show labels */
-.cv #webaddress a i { display: none; }
-.cv #webaddress .visually-hidden {
-  position: static !important;
-  width: auto; height: auto;
-  clip: auto; white-space: normal;
-  margin: 0; padding: 0;
-}
 
 .cv-updated {
   margin: 10pt 0 0;
